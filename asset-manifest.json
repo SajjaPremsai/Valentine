@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SajjaPremsai/Valentine/static/css/main.6fc62a10.css",
+    "main.js": "/SajjaPremsai/Valentine/static/js/main.d0dca7cb.js",
+    "static/js/592.0bcdb36a.chunk.js": "/SajjaPremsai/Valentine/static/js/592.0bcdb36a.chunk.js",
+    "index.html": "/SajjaPremsai/Valentine/index.html",
+    "main.6fc62a10.css.map": "/SajjaPremsai/Valentine/static/css/main.6fc62a10.css.map",
+    "main.d0dca7cb.js.map": "/SajjaPremsai/Valentine/static/js/main.d0dca7cb.js.map",
+    "592.0bcdb36a.chunk.js.map": "/SajjaPremsai/Valentine/static/js/592.0bcdb36a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fc62a10.css",
+    "static/js/main.d0dca7cb.js"
+  ]
+}
